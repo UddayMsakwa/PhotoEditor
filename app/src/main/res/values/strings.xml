@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">PhotoEditor</string>
+
+    <string name="welcome_icon_desc">Add an image</string>
+    <string name="welcome_text">Upload an image from the gallery or take a photo</string>
+    <string name="take_picture_button">Camera</string>
+    <string name="choose_picture_button">Gallery</string>
+    <string name="without_picture_button">Continue without an image</string>
+
+    <string name="alert_title">We need permissions for the app to work!</string>
+    <string name="alert_message">For the application to function fully, we need permissions to read and write files. Allow them or use the mode without loading images</string>
+    <string name="alert_positive">Give permissions</string>
+    <string name="alert_negative">Continue without loading an image</string>
+
+    <string name="image_section_name">Image</string>
+    <string name="image_section_header">Upload image</string>
+    <string name="image_desc">Uploaded image</string>
+
+    <string name="effect_section_name">Effects</string>
+    <string name="effect_section_header">Available effects</string>
+
+    <string name="save_section_name">Save</string>
+    <string name="save_section_header">Save image</string>
+    <string name="save_image_desc">Image with result</string>
+    <string name="save_image_text">The current result is automatically saved. Check out the gallery :)</string>
+    <string name="save_picture_button">Save</string>
+
+    <string name="rotation_task_name">Rotate</string>
+    <string name="rotation_task_desc">Rotate an image to an arbitrary angle</string>
+    <string name="rotation_angle_hint">Angle of rotation</string>
+    <string name="incorrect_angle_toast">Enter a valid angle</string>
+
+    <string name="color_correction_task_name">Color correction</string>
+    <string name="color_correction_task_desc">Applying the selected filter to the image</string>
+    <string name="black_and_white_button">Black and white filter</string>
+    <string name="sepia_button">Sepia</string>
+    <string name="red_button">Red filter</string>
+    <string name="negative_button">Inversion</string>
+
+    <string name="retouch_task_name">Retouching</string>
+    <string name="retouch_task_desc">Delete defects</string>
+
+    <string name="scaling_task_name">Scaling</string>
+    <string name="scaling_task_desc">Resizing an Image</string>
+    <string name="scale_coefficient">Scaling factor</string>
+
+    <string name="segmentation_task_name">Segmentation</string>
+    <string name="segmentation_task_desc">Face recognition in an image</string>
+
+    <string name="splines_task_name">Splines</string>
+    <string name="splines_task_desc">Converting polylines to splines</string>
+    <string name="delete_point_button">Delete point</string>
+
+    <string name="unsharp_mask_task_name">Unsharp Mask</string>
+    <string name="unsharp_mask_task_desc">Sharpening an image</string>
+    <string name="radius_textView">Blur Radius:</string>
+    <string name="amount_textView">Effect: </string>
+
+    <string name="cube_task_name">3D Cube</string>
+    <string name="cube_task_desc">Rotation of a three-dimensional cube</string>
+    <string name="rotate_cube_button">Clockwise rotation</string>
+    <string name="reset_cube_button">Reset</string>
+
+    <string name="apply_button">Apply</string>
+    <string name="change_picture_button">Replace image</string>
+    <string name="undo_button">Cancel</string>
+    <string name="current_image_desc">Current image</string>
+    <string name="empty_history_message">History is empty</string>
+    <string name="algorithm_success_message">Algorithm completed</string>
+    <string name="algorithm_error_message">An error occurred while running the algorithm</string>
+    <string name="image_load_error_message">There was an error loading the image</string>
+    <string name="image_save_error_message">An error occurred while saving the image</string>
+
+    <string name="task_description">Effect Description</string>
+    <string name="task_icon_desc">Effect icon</string>
+    <string name="task_name">Effect name</string>
+    <string name="fix">Fix</string>
+    <string name="scaling">Scaling</string>
+    <string name="save_result">Save</string>
+
+    <string name="scaling_coef">Scaling factor</string>
+    <string name="trilinear">Trilinear</string>
+    <string name="bilinear">Bilinear</string>
+    <string name="interpolation">Interpolation</string>
+
+    <string name="interpolaion_text">Removing the staircase effect</string>
+
+</resources>

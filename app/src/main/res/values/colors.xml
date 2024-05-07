@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_blue_400">#FF29B6F6</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="gray_400">#FFBDBDBD</color>
+    <color name="gray_600">#FF757575</color>
+
+    <!--    Our colors-->
+    <color name="black">#FF263238</color>
+    <color name="accent">#408EC6</color>
+    <color name="buttonStroke">#7A2048</color>
+    <color name="buttonBackground">@color/white</color>
+    <color name="headerBackground">#408EC6</color>
+    <color name="bottomNavigationBackground">#FFF0F0F0</color>
+    <color name="bottomNavigationItemColor">#7A2048</color>
+
+    <!--   Effects-->
+    <color name="effectCardBackground">#FFF9F9F9</color>
+    <color name="effectTitleColor">@color/black</color>
+    <color name="effectDescriptionColor">#FF515B60</color>
+    <color name="bonus">#7A2048</color>
+</resources>
